@@ -117,6 +117,13 @@ dependencies에 웹 파싱 핵심 라이브러리들이 잘 포함되어 있는 
 ```
 $ npm install splice-string
 
+added 2 packages, and audited 3 packages in 2s
+
+1 package is looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
 $ node try.js
 universe
 ```
